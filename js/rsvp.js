@@ -5,6 +5,9 @@ const formButton = formIdRegistrar.getElementsByTagName('button')[0];
 const mainElement = document.querySelector('.main');
 const ul = document.getElementById('invitedList');
 
+/* Local Storage */
+
+
 /* Creating a hide button for those who doesnt responded  */
 const div = document.createElement('div'); //create a div 
 const hidelabel = document.createElement('label'); //label

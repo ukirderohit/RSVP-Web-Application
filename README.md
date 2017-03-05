@@ -5,7 +5,7 @@ A JavaScript Web Application (No Framework Used)
 
 
 > :warning:
-  This Site is Under Construction
+  Data is not saved(When Refreshed), Else Everything works fine!!
 
 ### Fork, then clone
 
