@@ -7,7 +7,15 @@ A JavaScript Web Application (No Framework Used)
 > :warning:
   Data is not saved(When Refreshed), Else Everything works fine!!
 
-![Desktop Layout](http://ukirderohit.me/RSVP-Web-Application/img/RSVPAPP.gif)
+---
+
+![Desktop Layout](http://ukirderohit.me/RSVP-Web-Application/images/RSVPAPP.gif)
+
+----
+
+![Mobile Layout](http://ukirderohit.me/RSVP-Web-Application/images/mobile.gif)
+
+---
 
 ### Fork, then clone
 
